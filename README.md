@@ -1,8 +1,8 @@
-# best-national-statistics-site
+# national-statistics-site-20261126
 
 [![make.fun · best-national-statistics-site-20261126-0539](https://make.fun/badge/best-national-statistics-site-20261126-0539.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539?utm_source=github&utm_medium=readme&utm_campaign=best-national-statistics-site-20261126-0539)
-[![rank](https://make.fun/badge/best-national-statistics-site-20261126-0539/Naivexyz/best-national-statistics-site/rank.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-national-statistics-site-20261126-0539)
-[![reward](https://make.fun/badge/best-national-statistics-site-20261126-0539/Naivexyz/best-national-statistics-site/reward.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539?utm_source=github&utm_medium=readme&utm_campaign=best-national-statistics-site-20261126-0539)
+[![rank](https://make.fun/badge/best-national-statistics-site-20261126-0539/Naivexyz/national-statistics-site-20261126/rank.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-national-statistics-site-20261126-0539)
+[![reward](https://make.fun/badge/best-national-statistics-site-20261126-0539/Naivexyz/national-statistics-site-20261126/reward.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539?utm_source=github&utm_medium=readme&utm_campaign=best-national-statistics-site-20261126-0539)
 
 **Japan in Numbers** — a national statistics site for Japan: five linked pages covering the headline indicators, population (age structure, prefectures, births and deaths), the economy (GDP since 1995, sectors, trade, debt, the return of inflation), society (life expectancy, households, education) and an interactive comparison that re-ranks Japan against five other countries on the measure you pick. Every figure carries its source and year; charts are hand-drawn SVG from the site's own data files. Plain static files, no build step, no network.
 
